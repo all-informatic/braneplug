@@ -25,7 +25,7 @@ INSTALL:
   3. Open zerobrane studio you should see in menu Edit a new entry "Plugins..." 
   4. when Brane Plug window opens Select an item and Click the Install button...
   
-  Enjoy and watch an important video on my homepage sos-productions.com to thank me for this extension
+  Enjoy and have a nice watch of the video [based on a True Story That Affected 100 Million People](https://watch.ntdfilms.com/programs/comingforyou)
 
 TODO:
 ------
