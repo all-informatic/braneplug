@@ -9,12 +9,12 @@ Before version 6 (2014): Original Plugin from William Willing
 Since version 6 (28.08.2019) : a sos-productions.com extension for aegisos project (http://aegisos.sos-productions.com/) by Olivier Lutzwiller.
 
 Features/Improvements:
-*Linux support and bug fixes
-*Repository relocation possible with Repository:SetCustom(url)
-*Async Thread support added
-*Test case for debug in sync mode
-*Install steps below ;-)  
-*Error with icon warning on plugin install failure (cover https://github.com/williamwilling/braneplug/issues/1)
+* Linux support and bug fixes
+* Repository relocation possible with Repository:SetCustom(url)
+* Async Thread support added
+* Test case for debug in sync mode
+* Install steps below ;-)  
+* Error with icon warning on plugin install failure (covers https://github.com/williamwilling/braneplug/issues/1)
 
 INSTALL:
 --------
