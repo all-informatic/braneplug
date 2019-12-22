@@ -4,6 +4,7 @@ A plugin manager for ZeroBrane Studio.
 
 HISTORY:
 --------
+
 Before version 6 (2014): Original Plugin from William Willing
 Since version 6 (28.08.2019) : a sos-productions.com extension for aegisos by Olivier Lutzwiller
   -Linux support and bug fixes
@@ -15,6 +16,7 @@ Since version 6 (28.08.2019) : a sos-productions.com extension for aegisos by Ol
 
 INSTALL:
 --------
+
   It has to be done manually imho once:
   1)Copy all the src files into Zerobrane's packages dir (for linux it is /opt/zbstudio/packages)
   2)Ensure this directory has writting rights as well as lualibs and myprograms  
@@ -25,4 +27,5 @@ INSTALL:
 
 TODO:
 ------
+
   luvit/lit package import as respository https://lit.luvit.io/packages ?
